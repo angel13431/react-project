@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  max-width: 55%;
+}
+.appl {
+  margin: 10%;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
